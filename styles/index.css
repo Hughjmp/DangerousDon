@@ -27,6 +27,7 @@ body {
   background-image: url(../img/DD_Text.svg);
   background-size: contain;
   -webkit-filter: invert(1);
+  filter: invert(1);
   background-repeat: no-repeat;
   width: 370.000000pt;
 }
