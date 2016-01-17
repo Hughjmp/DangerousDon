@@ -16,19 +16,9 @@ body {
 }
 
 .logo {
-  background-image: url(../img/DD_logo.svg);
-  background-color: white;
+  background-image: url(../img/logo.png);
+  background-size: contain;
   background-repeat: no-repeat;
   width: 300.000000pt;
-  height: 468.000000pt;
-}
-
-.text {
-  background-image: url(../img/DD_Text.svg);
-  background-size: contain;
-  -webkit-filter: invert(1);
-  filter: invert(1);
-  background-repeat: no-repeat;
-  width: 370.000000pt;
-  height: 200px;
+  height: 600.000000pt;
 }
