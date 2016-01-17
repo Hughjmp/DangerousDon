@@ -18,8 +18,8 @@ body {
 .logo {
   background-image: url(../img/DD_logo.svg);
   background-color: white;
-  /*background-repeat: no-repeat;*/
-  width: 368.000000pt;
+  background-repeat: no-repeat;
+  width: 300.000000pt;
   height: 468.000000pt;
 }
 
